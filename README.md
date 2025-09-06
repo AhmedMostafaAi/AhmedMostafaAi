@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmed Mostafa
 
-🎓 Computer Science graduate | 💻 Backend Developer | ⚙️ Building with Node.js, Express, MongoDB, and more  
+🎓 Information Technology graduate | 💻 Backend Developer | ⚙️ Building with Node.js, Express, MongoDB, and more  
 🚀 Passionate about clean architecture, solving real-world problems, and building smart APIs.
 
 ---
